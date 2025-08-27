@@ -13,10 +13,11 @@ The program allows users to:
 - Movie selection with input validation (case-insensitive).
 - Seat type selection (`Standard` / `VIP`).
 - Age-based discounts:
-  - Children (≤ 12 years): 50% off  
-  - Seniors (≥ 60 years): 30% off  
+  - Children (≤ 18 years): 30% off  
+  - Seniors (≥ 60 years): 40% off  
   - Adults: No discount
 - Ticket summary with final calculated price.
+
 
 
 
